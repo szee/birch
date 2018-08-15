@@ -1,0 +1,8 @@
+#!/usr/bin/env python3
+
+'''birch binary file'''
+
+import birch
+
+if __name__ == "__main__":
+    birch.main()
