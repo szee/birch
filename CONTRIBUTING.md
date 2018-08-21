@@ -58,7 +58,7 @@
   * :pill: `:pill:` минорные обновления, фиксы в одну букву в документации и др. т.е. не влияющие на работу кода
   * :bug: `:bug:` баг фиксы!
   * :lock: `:lock:` если это багфикс, связаный с безопасностью
-  *:twisted_rightwards_arrows: `:twisted_rightwards_arrows:` мердж коммиты. любые.
+  * :twisted_rightwards_arrows: `:twisted_rightwards_arrows:` мердж коммиты. любые.
   * :racehorse: `:racehorse:` рефакторинг кода
   * :white_check_mark: `:white_check_mark:` работа с тестами
   * :fire: `:fire:` если вы удаляете (безвозвратно!) какую либо часть сервиса: код, файл, конфиги, что угодно.
