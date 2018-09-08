@@ -6,9 +6,7 @@
 timetools.py -- модуль для работы со временем и преобразованием его для бд
 '''
 
-import datetime
 import time
-import re
 
 OVERDUE_STATUS_MAX_HOURS = 9
 
